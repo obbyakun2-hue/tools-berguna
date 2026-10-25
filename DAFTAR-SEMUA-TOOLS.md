@@ -53,4 +53,23 @@
 |49|Zed|Developer|✅|-|Editor kode super cepat dari pembuat Atom|
 |50|Dify|AI|✅|-|Platform buat app AI tanpa/banyak kode (self-host)|
 
+|51|Runway Gen-4.5|AI Video|Freemium|-|Generator video pro + editor|
+|52|Kling AI 3.0|AI Video|Freemium|-|Video sinematik hemat + lip-sync|
+|53|Google Veo 3.1|AI Video|Berbayar|-|Video realistis + audio (via Flow)|
+|54|Sora 2|AI Video|Berbayar|-|Text-to-video OpenAI|
+|55|Luma Ray3|AI Video|Freemium|-|Image-to-video sinematik|
+|56|Pika 2.5|AI Video|Freemium|-|Efek video sosial cepat|
+|57|Wan 2.2 (lokal)|AI Video|✅|-|Video open-source di ComfyUI|
+|58|HunyuanVideo|AI Video|✅|-|Video open-source Tencent|
+|59|DaVinci Resolve|AI Video/Edit|✅|`BlackmagicDesign.DaVinciResolve`|Editing pro gratis|
+|60|python-telegram-bot|Bot|✅|-|Framework bot Telegram Python|
+|61|aiogram|Bot|✅|-|Framework bot Telegram async|
+|62|Telegraf|Bot|✅|-|Framework bot Telegram Node.js|
+|63|grammY|Bot|✅|-|Framework bot Telegram TS/Deno|
+|64|WhatsApp Cloud API|Bot|✅|-|API bot WA RESMI Meta|
+|65|Instagram Graph API|Bot|✅|-|API IG RESMI Meta (bisnis/kreator)|
+|66|ManyChat|Bot|Freemium|-|Bot WA/IG no-code resmi|
+|67|Chatfuel|Bot|Freemium|-|Bot WA/IG/Messenger no-code|
+|68|n8n|Bot/Otomasi|✅|-|Otomasi bot ↔ Sheets/AI/DB, self-host|
+
 > Winget ID bisa berubah oleh penerbit — kalau satu gagal, install manual dari link resmi di folder kategorinya.

@@ -1,0 +1,8 @@
+{
+  "name": "bot-whatsapp-cloud-api",
+  "version": "1.0.0",
+  "private": true,
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": { "express": "^4.19.0", "dotenv": "^16.4.0" }
+}

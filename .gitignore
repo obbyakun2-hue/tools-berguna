@@ -2,3 +2,6 @@
 *.msi
 *.zip
 Downloads/
+.env
+__pycache__/
+node_modules/

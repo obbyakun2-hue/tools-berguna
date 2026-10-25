@@ -34,6 +34,8 @@ winget install Microsoft.PowerToys voidtools.Everything 7zip.7zip ShareX.ShareX
 | [06-keamanan-privasi](06-keamanan-privasi/) | Password, privasi, keamanan | Bitwarden, KeePassXC, Malwarebytes, Cloudflare WARP |
 | [07-internet-download-file](07-internet-download-file/) | Browser, download, transfer file | Brave, Firefox, yt-dlp, LocalSend, qBittorrent, Free Download Manager |
 | [08-android-remote](08-android-remote/) | Hubungkan PC ↔ HP Android | scrcpy, ADB Platform Tools, LocalSend |
+| [09-ai-video](09-ai-video/) | Buat & edit video pakai AI | Runway, Kling, Veo 3.1, Sora 2, Wan lokal, CapCut, DaVinci |
+| [10-bot-wa-ig-telegram](10-bot-wa-ig-telegram/) | Script bot resmi + tools bot | Telegram Bot API, WA Cloud API, IG Graph API, n8n + script starter siap jalan |
 
 📋 Daftar lengkap semua tools dalam 1 tabel: [DAFTAR-SEMUA-TOOLS.md](DAFTAR-SEMUA-TOOLS.md)
 
