@@ -36,6 +36,7 @@ winget install Microsoft.PowerToys voidtools.Everything 7zip.7zip ShareX.ShareX
 | [08-android-remote](08-android-remote/) | Hubungkan PC ↔ HP Android | scrcpy, ADB Platform Tools, LocalSend |
 | [09-ai-video](09-ai-video/) | Buat & edit video pakai AI | Runway, Kling, Veo 3.1, Sora 2, Wan lokal, CapCut, DaVinci |
 | [10-bot-wa-ig-telegram](10-bot-wa-ig-telegram/) | Script bot resmi + tools bot | Telegram Bot API, WA Cloud API, IG Graph API, n8n + script starter siap jalan |
+| [11-cek-jejak-nomor-email](11-cek-jejak-nomor-email/) | Audit nomor HP & email SENDIRI: bocor di mana, tertaut di mana | Have I Been Pwned, PeriksaData, holehe, PhoneInfoga, Getcontact + checklist audit |
 
 📋 Daftar lengkap semua tools dalam 1 tabel: [DAFTAR-SEMUA-TOOLS.md](DAFTAR-SEMUA-TOOLS.md)
 

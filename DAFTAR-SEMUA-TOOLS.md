@@ -72,4 +72,13 @@
 |67|Chatfuel|Bot|Freemium|-|Bot WA/IG/Messenger no-code|
 |68|n8n|Bot/Otomasi|✅|-|Otomasi bot ↔ Sheets/AI/DB, self-host|
 
+|69|Have I Been Pwned|Cek Jejak|✅|-|Cek email/nomor bocor di breach publik|
+|70|PeriksaData|Cek Jejak|✅|-|Cek bocor fokus Indonesia|
+|71|Mozilla Monitor|Cek Jejak|✅|-|Monitor email + panduan hapus data broker|
+|72|holehe|Cek Jejak|✅|-|Cek email SENDIRI terdaftar di 100+ situs|
+|73|PhoneInfoga|Cek Jejak|✅|-|Info format/operator nomor (lokal)|
+|74|Getcontact|Cek Jejak|Freemium|-|Tag nomor + label spam (crowdsource)|
+|75|Truecaller|Cek Jejak|Freemium|-|Identifikasi penelepon + spam|
+|76|CekRekening.id|Cek Jejak|✅|-|Cek nomor/rekening dilaporkan penipuan (Kominfo)|
+
 > Winget ID bisa berubah oleh penerbit — kalau satu gagal, install manual dari link resmi di folder kategorinya.
